@@ -1,0 +1,25 @@
+﻿  pch.cpp
+  gsl_optim.cpp
+c:\users\tuanda\source\repos\optim-master\header_only_version\unconstrained\de.hpp(57): warning C4267: 'initializing': conversion from 'size_t' to 'optim::uint_t', possible loss of data
+c:\users\tuanda\source\repos\optim-master\header_only_version\unconstrained\de.hpp(57): warning C4267: 'initializing': conversion from 'size_t' to 'const optim::uint_t', possible loss of data
+c:\users\tuanda\source\repos\optim-master\header_only_version\unconstrained\de.hpp(148): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\tuanda\source\repos\optim-master\header_only_version\unconstrained\de.hpp(152): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\tuanda\source\repos\optim-master\header_only_version\unconstrained\de.hpp(156): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\tuanda\source\repos\optim-master\header_only_version\unconstrained\de.hpp(161): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\tuanda\source\repos\optim-master\header_only_version\unconstrained\de.hpp(229): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\tuanda\source\repos\optim-master\header_only_version\unconstrained\de_prmm.hpp(217): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\tuanda\source\repos\optim-master\header_only_version\unconstrained\de_prmm.hpp(221): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\tuanda\source\repos\optim-master\header_only_version\unconstrained\de_prmm.hpp(225): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\tuanda\source\repos\optim-master\header_only_version\unconstrained\de_prmm.hpp(230): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\tuanda\source\repos\optim-master\header_only_version\unconstrained\de_prmm.hpp(295): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\tuanda\source\repos\optim-master\header_only_version\unconstrained\de_prmm.hpp(299): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\tuanda\source\repos\optim-master\header_only_version\unconstrained\de_prmm.hpp(304): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\tuanda\source\repos\optim-master\header_only_version\unconstrained\de_prmm.hpp(384): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\tuanda\source\repos\optim-master\header_only_version\unconstrained\pso.hpp(59): warning C4267: 'initializing': conversion from 'size_t' to 'optim::uint_t', possible loss of data
+c:\users\tuanda\source\repos\optim-master\header_only_version\unconstrained\pso.hpp(59): warning C4267: 'initializing': conversion from 'size_t' to 'const optim::uint_t', possible loss of data
+c:\users\tuanda\source\repos\optim-master\header_only_version\unconstrained\pso.hpp(231): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\tuanda\source\repos\optim-master\header_only_version\unconstrained\pso_dv.hpp(154): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\tuanda\source\repos\optim-master\header_only_version\unconstrained\pso_dv.hpp(158): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\tuanda\source\repos\optim-master\header_only_version\unconstrained\pso_dv.hpp(220): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OptimLib.vcxproj -> C:\Users\tuanda\source\repos\OptimLib\x64\Debug\OptimLib.exe
